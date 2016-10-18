@@ -46,8 +46,12 @@ table {
 border-collapse: collapse;
 border-spacing: 0;
 }
-.h1 {
-	font-size: 30px;
+h1 {
+	font-size: 100px;
 	color: green;
-}
+	padding-top: 100px;
+	background-color: lightblue;
+	font-family: helvetica;
+	padding-left: 20px;
+	}
 }
