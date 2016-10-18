@@ -48,10 +48,9 @@ border-spacing: 0;
 }
 h1 {
 	font-size: 100px;
-	color: lightblue;
+	color: darkblue;
 	padding-top: 100px;
 	background-color: lightgreen;
-	opacity: 50%;
 	font-family: helvetica;
 	padding-left: 20px;
 	}
